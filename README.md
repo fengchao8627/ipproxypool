@@ -21,13 +21,13 @@
 
 ### ip代理池思维导图
 
-![alt text](https://github.com/wenchaomartin/ipproxy/blob/master/screenshots/ip%E4%BB%A3%E7%90%86%E6%B1%A0.png)
+![alt text](https://github.com/wenchaomartin/ipproxypool/blob/master/%E5%9B%BE%E7%89%872.png)
 
 
 
 ###  IP代理池的项目架构图
 
-![alt text](https://github.com/wenchaomartin/ipproxy/blob/master/screenshots/%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84%E7%9A%84%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
+![alt text](https://github.com/wenchaomartin/ipproxypool/blob/master/%E5%9B%BE%E7%89%871.png)
 
 
 
